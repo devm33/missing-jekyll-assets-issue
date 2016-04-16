@@ -19,3 +19,11 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+safe: false
+gems:
+    - jekyll-assets
+
+# jekyll-assets settings
+assets:
+    digest: true

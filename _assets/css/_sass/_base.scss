@@ -9,6 +9,14 @@ dl, dd, ol, ul, figure {
 }
 
 
+body {
+    background: url(asset_path("vsm_bg.jpg")) no-repeat center center fixed transparent;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 
 /**
  * Basic styling
